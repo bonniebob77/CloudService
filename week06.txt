@@ -18,4 +18,4 @@ git fetch
 git pull
 git log --oneline --graph
 
-week06.txt 파일 스동 conflict 해결
+week06.txt 파일 수동 conflict 해결
