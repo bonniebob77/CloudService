@@ -19,3 +19,7 @@ git pull
 git log --oneline --graph
 
 week06.txt 파일 수동 conflict 해결
+
+
+
+충돌나는 경우 - 1. 온라온 파일이 수정되고 새로운 파일도 만듦 2. 원격에서 파일 바꿨는데 깃에선 그대로임
