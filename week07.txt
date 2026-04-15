@@ -2,6 +2,7 @@
 fork 및 pull request
 
 2교시
+
 amend 옵션 (git commit --amend -m "" / 최근 커밋 이름 수정하기)
 2가지 confilcts 상황 해결
 
